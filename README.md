@@ -1,5 +1,3 @@
-# tarefa_git
-
 # 🐟: A lenda de Urashima Taro
 
 A Lenda de Urashima Taro é uma história folclórica japonesa sobre um pescador que ajuda uma tartaruga e é levado ao Reino do Dragão para salvar uma princesa em perigo. Ele fica lá por três dias, mas descobre que o tempo passou de forma diferente quando volta para casa e envelheceu. A história reflete sobre a passagem do tempo e a importância da gratidão e bondade.
